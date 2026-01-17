@@ -5,8 +5,6 @@ Official public profile and articles of Janvivek. Janvivek is an independent, ci
 Janvivek is a civic awareness and public discourse initiative focused on
 democracy, media literacy, and responsible citizenship in India.
 
-🌐 Website: https://janvivek.com  
-📝 Articles: https://medium.com/@janvivek  
-📌 Pinterest: https://pinterest.com/janvivek  
+🌐 Website: https://janvivek.com   
 
 This page is created to share public information and resources.
